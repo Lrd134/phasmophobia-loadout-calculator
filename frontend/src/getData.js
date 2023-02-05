@@ -1,7 +1,7 @@
 function getData(setState) {
   setState((state, props) => {
     if (state.REQUESTING !== true && state.data === null) {
-      fetch(localhost:3001/items)
+      fetch("localhost:3001/items")
       .then(resp => resp.json())
       .then(json => {
         JSON.parse(json)
@@ -15,3 +15,5 @@ function getData(setState) {
   
 
 }
+
+export default getData;
