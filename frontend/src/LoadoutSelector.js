@@ -1,14 +1,18 @@
 import React, {Component} from 'react';
 
 class LoadoutSelector extends Component {
+
+
   render() {
-    <span className="LoadoutSelector">
-      <div className="items">
-      
-      </div>
-    </span> 
+    return (
+      <span className="LoadoutSelector">
+        <div className="items">
+        
+        </div>
+      </span> 
+    )
   }
     
 }
 
-return LoadoutSelector;
+export default LoadoutSelector;
