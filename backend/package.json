@@ -1,0 +1,19 @@
+{
+  "name": "phasmophobia-loadout-calculator-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lrd134/phasmophobia-loadout-calculator.git"
+  },
+  "author": "Lawrence Chesbro, Jr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lrd134/phasmophobia-loadout-calculator/issues"
+  },
+  "homepage": "https://github.com/Lrd134/phasmophobia-loadout-calculator#readme"
+}
