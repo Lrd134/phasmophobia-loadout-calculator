@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lrd134/phasmophobia-loadout-calculator/issues"
   },
-  "homepage": "https://github.com/Lrd134/phasmophobia-loadout-calculator#readme"
+  "homepage": "https://github.com/Lrd134/phasmophobia-loadout-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

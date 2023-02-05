@@ -3,7 +3,7 @@ const items = {
     price: 50,
     max: 6,
     photo: "Video_Camera.png"
-  }
+  },
   dots: {
     price: 65,
     max: 2,
@@ -110,3 +110,5 @@ const items = {
     photo: "Tripod.png"
   }
 }
+
+exports.items = items;
