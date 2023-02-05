@@ -9,4 +9,4 @@ function PhasmophobiaLoadoutCalculator() {
   );
 }
 
-export default App;
+export default PhasmophobiaLoadoutCalculator;
